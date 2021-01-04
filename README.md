@@ -108,7 +108,11 @@
 
 - [Auth0 Blog](https://auth0.com/blog/) -  Blog on articles related to Authentication and Securing APIs.
 
-- [Strong Blog](https://strongloop.com/strongblog/) -  Blog on articles related to Loopback API generator.
+- [Strong Blog](https://strongloop.com/strongblog/) -  Blog on articles related to Loopback API generator. 
+
+- [The Verge](https://www.theverge.com/) - Blogs on Articles Related to hardware, apps and The tech news. 
+
+- [CyberSecPlay](https://cybersecplay.blogspot.com/) - Blogs About Technology & Basics Of Ethical Hacking. 
 
 # Contribution
 
